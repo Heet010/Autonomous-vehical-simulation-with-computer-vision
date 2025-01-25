@@ -23,7 +23,7 @@ Python has been used as the primary programming language and Tensorflow as the D
 
 The Udacity provided dataset works well but it is not enough to get the car running in difficult terrain (like the second track in Udacity simulator). To gather the data from track 2, at first a folder is needed to be created in the project directory. Let’s call this folder "data". Now, start the simulator. Select the second track from the menu and go to the training mode option.
 
-![Menu](https://github.com/saha0073/Autonomous-Vehicle-Computer-Vision/blob/main/images/menu.png)
+![image](https://github.com/user-attachments/assets/c1b65b64-9089-47f8-87e1-e6e249aafe92)
 
 Click "RECORD" button on the right corner and select a directory as the folder to save your training image and driving log information.
 
