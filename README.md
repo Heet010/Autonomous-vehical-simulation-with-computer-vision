@@ -27,9 +27,9 @@ The Udacity provided dataset works well but it is not enough to get the car runn
 
 Click "RECORD" button on the right corner and select a directory as the folder to save your training image and driving log information.
 
-![Record](https://github.com/saha0073/Autonomous-Vehicle-Computer-Vision/blob/main/images/recording.png)
+![image](https://github.com/user-attachments/assets/607d9d34-96a0-4645-b5a6-40171b101ae8)
 
-![SelectDir](https://github.com/saha0073/Autonomous-Vehicle-Computer-Vision/blob/main/images/select_dir.png)
+![image](https://github.com/user-attachments/assets/2acfb01d-c65c-4fcd-b6cc-c8defaa62860)
 
 Click "RECORD" again and move your car slowly and carefully. After you have completed recording your move, the training data will be stored in the folder you selected. Here record at least 3 laps of the race. Please try best to stay at the center of the road. Also, record laps in reverse direction as it will give more data and thus would help avoid overfitting.
 
