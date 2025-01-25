@@ -1,8 +1,8 @@
 # Autonomous Vehicle simulation with Computer Vision
 
-This repo contains code for predicting steering angles of self driving car. The inspiraion is taken from Udacity Self driving car module as well End to End Learning for Self-Driving Cars module from NVIDIA, and inspired from 'AI-Driver-CNN-DeepLearning-PyTorch' by milsun.
+This repo contains code for predicting steering angles of self driving car. The inspiraion is taken from Udacity Self driving car module as well End to End Learning for Self-Driving Cars module from NVIDIA.
 
-The End to End Learning for Self-Driving Cars research paper can be found at (https://arxiv.org/abs/1604.07316) This repository is built on PyTorch library.
+The End to End Learning for Self-Driving Cars research paper can be found at (https://arxiv.org/abs/1604.07316) This repository is built on Tensorflow library.
 
 ## Abstract
 
@@ -13,20 +13,11 @@ Here, CNN based architecture is used, which comprises of 5 Convolutions layers f
 
 ## Prerequisites
 
-Python has been used as the primary programming language and PyTorch as the Deep Learning framework. Other resources / software / library could be found as follows.
+Python has been used as the primary programming language and Tensorflow as the Deep Learning framework. Other resources / software / library could be found as follows.
 
 1. Self-driving car simulator developed by [Udacity](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) with Unity. Download [here](https://github.com/udacity/self-driving-car-sim)
 
-2. Install PyTorch environment (latest version the best) in your local machine.
-
-3. Log in Google Colab (if you do not have GPU and would love to utilize the power of GPU, please try this and be sure to enable GPU as accelerator)
-
-
-## Usage
-
-```
-python3 drive.py model/model.pth  
-```
+2. Install Tensorflow environment (latest version the best) in your local machine.
 
 ## Dataset
 
